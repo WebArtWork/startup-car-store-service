@@ -3,27 +3,27 @@
 	"products": [
 		{
 			"id": "",
-			"price": 1200,
+			"price": "",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+        	"thumb": "https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/12266/2023-12266-2176071.jpg?itok=6KOOuIqh",
+			"thumbs": ["https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/12266/2023-12266-2176071.jpg?itok=6KOOuIqh"], 
+			"name": "2023 Land Cruiser 300 Guard Inkas B6+"
 		},
 		{
 			"id": "",
-			"price": 1200,
+			"price":"",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+        	"thumb": "https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/12380/2021-12380-2175793.jpg?itok=5IFwTbnS",
+			"thumbs": ["https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/12380/2021-12380-2175793.jpg?itok=5IFwTbnS"], 
+			"name": "2021 Sequoia Platinum"
 		},
 		{
 			"id": "",
-			"price": 1200,
+			"price": "",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+        	"thumb": "https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/13523/2023-13523-2171928.jpg?itok=kw56z6BN",
+			"thumbs": ["https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/13523/2023-13523-2171928.jpg?itok=kw56z6BN"], 
+			"name": "2023 GLS 450D AMG 4Matic"
 		}
 	]
 }

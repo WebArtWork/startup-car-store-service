@@ -63,13 +63,13 @@
 			</label>
 
 			<div class="topbar__content">
-				<nav class="topbar__menu topbar-menu">
+				<!-- <nav class="topbar__menu topbar-menu">
 					<ul class="topbar-menu__list">
 						{% for tag in tags %}
 						<a href="/{{{tag.category.group}}}s/{{{tag.id}}}" class="topbar-menu__link">{{{tag.name}}}</a>
 						{% endfor %}
 					</ul>
-				</nav>
+				</nav> -->
 <!-- 
 				<a href="/manage/profile" class="topbar__login topbar-login">
 					<span class="topbar-login__text">Auth</span>
@@ -93,7 +93,10 @@
 					{% endif %} </a>
 			</div>
 			<div class="footer__main footer-main">
-				<div class="footer-main__menu footer-menu">
+				<div class="footer-main__menu footer-menu" style="line-height: 28px; font-size: 21px;">
+					Our showroom stands as a beacon of excellence, offering an unparalleled automotive experience to our esteemed clientele. With a commitment to luxury, innovation, and customer satisfaction, we provide a curated selection of the finest vehicles from renowned manufacturers worldwide. Step into our world-class facility and embark on a journey of automotive sophistication, where every visit is a testament to our unwavering dedication to quality and service.
+				</div>
+				<!-- <div class="footer-main__menu footer-menu">
 					{% if footer.contents.length %}
 					<div class="footer-menu__block">
 						<span class="footer-menu__title">{{{translate('ThemeArtemVelihin.Contents')}}}</span>
@@ -109,6 +112,7 @@
 
 						</ul>
 					</div>
+					<div class="footer-menu_"></div>
 					{% endif %}
 
 					{% if footer.services.length %}
@@ -163,7 +167,7 @@
 					</div>
 					{% endif %}
 
-				</div>
+				</div> -->
 
 				<div class="footer-main__contacts footer-contacts">
 					<div class="footer-contacts__socials footer-socials">

@@ -30,50 +30,50 @@
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service1"
+			"short": " Toyota is one of the largest automakers in the world, known for its reliability and innovative technologies.",
+			"thumb": "https://i.infocar.ua/i/12/4927/1400x936.jpg",
+			"name": "Toyota"
 		},
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service2"
+			"short": "Mercedes-Benz is renowned for its luxurious vehicles that blend elegant design and cutting-edge technology.",
+			"thumb": "https://www.mercedes-benz.com/content/dam/brandhub/assets/vehicles/mercedes-maybach/maybach-brand/homepage/mercedes-maybach-brand-campaign-homepage-stage-4k-3840x2180-08-2023.cbv20231102081617.jpg/_jcr_content/renditions/mq8-original-aspect.jpeg",
+			"name": "Mercedes-Benz"
 		},
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service3"
+			"short": "BMW is known for its sophisticated vehicles that combine high quality and impressive design.",
+			"thumb": "https://www.carsome.my/news/wp-content/uploads/2023/07/BMW-M-Cars.jpg",
+			"name": "BMW"
 		},
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service2"
+			"short": "Ford is a well-known car manufacturer with a rich history and a high level of consumer trust.",
+			"thumb": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-f-150-raptor-08-64ff719e63c9b.jpg?crop=0.366xw:0.552xh;0.409xw,0.383xh&resize=768:*",
+			"name": "Ford"
 		}
 	],
 	"articles": [
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "BMW 7 Series 2023: test drive a luxury sedan.",
+			"thumb": "https://vip-car.com.ua/sites/default/files/styles/news/public/news/2023/bmw-7-serii-2023-test-drayv-roskoshnogo-sedana/bmw-7-serii-1.jpg?itok=RIpdB4iN",
+			"name": "06.02.2023"
 		},
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "New BMW X5 and BMW X6 2024: overview of the main changes",
+			"thumb": "https://vip-car.com.ua/sites/default/files/styles/news/public/news/2023/novye-bmw-x5-y-bmw-x6-2024-obzor-osnovnyh-yzmenenyy/novye-bmw-x5-i-bmw-x6-1.jpg?itok=Hpryb8AA",
+			"name": "06.02.2023"
 		},
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "BMW Concept Touring Coupe unveiled: a timeless symbol of freedom.",
+			"thumb": "https://vip-car.com.ua/sites/default/files/styles/news/public/news/2023/predstavlen-bmw-concept-touring-coupe-nepodvlastnyy-vremeni-simvol-svobody/bmw-concept-touring-coupe-1.jpg?itok=EmDTzIf3",
+			"name": "25"
 		}
 	]
 }
